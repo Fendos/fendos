@@ -1,6 +1,6 @@
-## cryptsetup benchmark
+# cryptsetup benchmark
 ```
-#     Algorithm |       Key |      Encryption |      Decryption
+     Algorithm |       Key |      Encryption |      Decryption
         aes-cbc        128b      1783.8 MiB/s      6707.3 MiB/s
     serpent-cbc        128b       120.1 MiB/s       882.5 MiB/s
     twofish-cbc        128b       258.6 MiB/s       568.8 MiB/s
