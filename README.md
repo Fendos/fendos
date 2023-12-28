@@ -15,7 +15,4 @@ www.office.com/?auth=2
 ```
 https://admin.microsoft.com Microsoft 365
 ```
-### Onedrive容量 1T 修改 为5T，老帐号不删除重建
-```
-https://blog.curlc.com/archives/66.html
-```
+
